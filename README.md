@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently studying in **CE KMITL**
 
-- 🌱 I’m currently learning **Python, Javascript, typescript language, NodeJS, React ,NextJS, PostgreSQL, mongoDB, Informational programming, ML**
+- 👨‍💻 I’m currently learning **Python, Javascript, typescript language, NodeJS, React ,NextJS, PostgreSQL, mongoDB, Informational programming, ML**
 
 - 🤝 I’m looking for help with all concepts and algorithms in any language on [https://github.com/TheAlgorithms](https://github.com/TheAlgorithms)
 
 - 🤝 I’m looking for help with sorting algorithms on [https://github.com/Matrix278/algorithms](https://github.com/Matrix278/algorithms)
 
-- 📫 How to reach me: **frame.sk140@gmail.com**
+- 📫 How to reach me: [Mail](mailto:frame.sk140@gmail.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
