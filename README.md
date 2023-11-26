@@ -10,6 +10,10 @@
 - 🤝 I’m looking for help with sorting algorithms on [https://github.com/Matrix278/algorithms](https://github.com/Matrix278/algorithms)
 
 - 📫 How to reach me: [Mail](mailto:frame.sk140@gmail.com)
+  
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
+</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frameee17&show_icons=true&locale=en" alt="frameee17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frameee17&" alt="frameee17" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frameee17&theme=dark" alt="Streak Stats" /></p>
