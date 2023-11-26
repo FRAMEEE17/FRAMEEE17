@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm FRAMEEE17 Natdanai Sangpho</h1>
 <h3 align="center">A passionate Computer Engineering Student from Thailand</h3>
 
