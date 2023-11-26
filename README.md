@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with sorting algorithms on [https://github.com/Matrix278/algorithms](https://github.com/Matrix278/algorithms)
 
-- 📫 How to reach me: [Mail](mailto:frame.sk140@gmail.com)
+- 📫 How to reach me: [Mail](mailto:frame.sk140@gmail.com), [Discord](frameeee#5101)
   
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
