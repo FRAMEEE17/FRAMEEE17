@@ -7,17 +7,21 @@
 
 - 🤝 I’m looking for help with all concepts and algorithms in any language on [TheAlgorithms](https://github.com/TheAlgorithms).
 
-- 🤝 I’m looking for help with sorting algorithms on [sorting-algorithms](https://github.com/Matrix278/algorithms).
+- [CE](https://github.com/Developer-Y/cs-video-courses)
+
+- [sorting-algorithms](https://github.com/Matrix278/algorithms).
   
-- 🤝 I’m looking for help with pandas on [effective-pandas](https://github.com/TomAugspurger/effective-pandas/blob/master/modern_1_intro.ipynb).
+- [effective-pandas](https://github.com/TomAugspurger/effective-pandas/blob/master/modern_1_intro.ipynb).
 
-- 🤝 I’m looking for help with AI Algorithm on [AIAlgosFromScratch](https://github.com/adityajn105/Al-Algos-from-Scratch).
+- [AIAlgosFromScratch](https://github.com/adityajn105/Al-Algos-from-Scratch).
 
-- 🤝 I’m looking for help with data structure practices on [Data Structures and Algorithms practice problems](https://github.com/bollwarm/DataStructuresAlgorithms).
+- [Data Structures and Algorithms practice problems](https://github.com/bollwarm/DataStructuresAlgorithms).
 
-- 🤝 I’m looking for help with system design 101 on [SystemDesign101](https://github.com/ByteByteGoHq/system-design-101).
+- [SystemDesign101](https://github.com/ByteByteGoHq/system-design-101).
 
-- 🤝 I’m looking for help with software dev principles and practices on [software development practices and design principles](https://github.com/joebew42/study-path).
+- [software development practices and design principles](https://github.com/joebew42/study-path).
+
+- [Deep Vision AI](https://github.com/kjw0612/awesome-deep-vision)
 
 - [BOOKS](https://github.com/JiashuWu/Books).
 
