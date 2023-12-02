@@ -5,9 +5,26 @@
 
 - 👨‍💻 I’m currently learning **Python, Javascript, typescript language, NodeJS, React ,NextJS, PostgreSQL, mongoDB, Informational programming, ML**
 
-- 🤝 I’m looking for help with all concepts and algorithms in any language on [https://github.com/TheAlgorithms](https://github.com/TheAlgorithms)
+- 🤝 I’m looking for help with all concepts and algorithms in any language on [TheAlgorithms](https://github.com/TheAlgorithms).
 
-- 🤝 I’m looking for help with sorting algorithms on [https://github.com/Matrix278/algorithms](https://github.com/Matrix278/algorithms)
+- 🤝 I’m looking for help with sorting algorithms on [sorting-algorithms](https://github.com/Matrix278/algorithms).
+  
+- 🤝 I’m looking for help with pandas on [effective-pandas](https://github.com/TomAugspurger/effective-pandas/blob/master/modern_1_intro.ipynb).
+
+- 🤝 I’m looking for help with data structure practices on [Data Structures and Algorithms practice problems](https://github.com/bollwarm/DataStructuresAlgorithms).
+
+- 🤝 I’m looking for help with system design 101 on [SystemDesign101](https://github.com/ByteByteGoHq/system-design-101).
+
+- 🤝 I’m looking for help with software dev principles and practices on [software development practices and design principles](https://github.com/joebew42/study-path).
+
+- Software Dev Process Project Example on [Chokchana Smart Contract](https://github.com/nonkung51/chokchana-contracts).
+
+- System design master plan on [System design master plan](https://github.com/mohsenshafiei/system-design-master-plan).
+
+- [Top-down ML learning path for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
+
+- [Pytorch and Tensorflow](https://github.com/aladdinpersson/Machine-Learning-Collection).
+
 
 - 📫 How to reach me: [Mail](mailto:frame.sk140@gmail.com), [Discord](5101)
   
