@@ -11,6 +11,8 @@
   
 - 🤝 I’m looking for help with pandas on [effective-pandas](https://github.com/TomAugspurger/effective-pandas/blob/master/modern_1_intro.ipynb).
 
+- 🤝 I’m looking for help with AI Algorithm on [AIAlgosFromScratch](https://github.com/adityajn105/Al-Algos-from-Scratch).
+
 - 🤝 I’m looking for help with data structure practices on [Data Structures and Algorithms practice problems](https://github.com/bollwarm/DataStructuresAlgorithms).
 
 - 🤝 I’m looking for help with system design 101 on [SystemDesign101](https://github.com/ByteByteGoHq/system-design-101).
