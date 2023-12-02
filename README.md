@@ -19,6 +19,8 @@
 
 - 🤝 I’m looking for help with software dev principles and practices on [software development practices and design principles](https://github.com/joebew42/study-path).
 
+- [BOOKS](https://github.com/JiashuWu/Books).
+
 - [DSA Python](https://github.com/neeru1207/DS-and-Algos-Python3).
 
 - Software Dev Process Project Example on [Chokchana Smart Contract](https://github.com/nonkung51/chokchana-contracts).
