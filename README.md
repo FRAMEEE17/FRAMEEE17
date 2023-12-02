@@ -25,6 +25,9 @@
 
 - [Pytorch and Tensorflow](https://github.com/aladdinpersson/Machine-Learning-Collection).
 
+- [ML project template](https://github.com/thanhhau097/ml_project_template).
+
+- [Portfolio WEBAPP example](https://abhinav-bohra.github.io/experience.html).
 
 - 📫 How to reach me: [Mail](mailto:frame.sk140@gmail.com), [Discord](5101)
   
