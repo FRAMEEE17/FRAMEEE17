@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm FRAMEEE17 Amateur level</h1>
+<h1 align="center">Hi 👋, I'm FRAMEEE17 </h1>
 <h3 align="center">A passionate Computer Engineering Student from Thailand</h3>
 
 - 🔭 I’m currently studying in **CE KMITL**
 
-- 👨‍💻 I’m currently learning **Python, Javascript, typescript language, NodeJS, React ,NextJS, PostgreSQL, mongoDB, Informational programming, ML**
+- 👨‍💻 My dream job is **Data, AI, Machine Learning engineer**
 
-- 🤝 I’m looking for help with all concepts and algorithms in any language on [TheAlgorithms](https://github.com/TheAlgorithms).
+- I’m looking for help with all concepts and algorithms in any language on 
+- [TheAlgorithms](https://github.com/TheAlgorithms).
 
 - [CE](https://github.com/Developer-Y/cs-video-courses)
 
