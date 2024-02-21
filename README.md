@@ -5,50 +5,43 @@
 
 - 👨‍💻 My dream job is **Data, AI, Machine Learning engineer**
 
-- I’m looking for help with all concepts and algorithms in any language on 
-- [TheAlgorithms](https://github.com/TheAlgorithms).
+ I’m looking for help with all concepts and algorithms in any language on 
+
+- [TheAlgorithms](https://github.com/TheAlgorithms)
 
 - [CE](https://github.com/Developer-Y/cs-video-courses)
 
-- [sorting-algorithms](https://github.com/Matrix278/algorithms).
+- [sorting-algorithms](https://github.com/Matrix278/algorithms)
   
-- [effective-pandas](https://github.com/TomAugspurger/effective-pandas/blob/master/modern_1_intro.ipynb).
+- [effective-pandas](https://github.com/TomAugspurger/effective-pandas/blob/master/modern_1_intro.ipynb)
 
-- [AIAlgosFromScratch](https://github.com/adityajn105/Al-Algos-from-Scratch).
+- [AIAlgosFromScratch](https://github.com/adityajn105/Al-Algos-from-Scratch)
 
-- [Data Structures and Algorithms practice problems](https://github.com/bollwarm/DataStructuresAlgorithms).
+- [Data Structures and Algorithms practice problems](https://github.com/bollwarm/DataStructuresAlgorithms)
 
-- [SystemDesign101](https://github.com/ByteByteGoHq/system-design-101).
+- [SystemDesign101](https://github.com/ByteByteGoHq/system-design-101)
 
-- [software development practices and design principles](https://github.com/joebew42/study-path).
+- [software development practices and design principles](https://github.com/joebew42/study-path)
 
 - [Deep Vision AI](https://github.com/kjw0612/awesome-deep-vision)
 
-- [BOOKS](https://github.com/JiashuWu/Books).
+- [BOOKS](https://github.com/JiashuWu/Books)
 
-- [DSA Python](https://github.com/neeru1207/DS-and-Algos-Python3).
+- [DSA Python](https://github.com/neeru1207/DS-and-Algos-Python3)
 
-- Software Dev Process Project Example on [Chokchana Smart Contract](https://github.com/nonkung51/chokchana-contracts).
+- System design master plan on [System design master plan](https://github.com/mohsenshafiei/system-design-master-plan)
 
-- System design master plan on [System design master plan](https://github.com/mohsenshafiei/system-design-master-plan).
+- [Top-down ML learning path for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
-- [Top-down ML learning path for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
+- [Pytorch and Tensorflow](https://github.com/aladdinpersson/Machine-Learning-Collection)
 
-- [Pytorch and Tensorflow](https://github.com/aladdinpersson/Machine-Learning-Collection).
+- [ML project template](https://github.com/thanhhau097/ml_project_template)
 
-- [ML project template](https://github.com/thanhhau097/ml_project_template).
+- [Portfolio WEBAPP example](https://abhinav-bohra.github.io/experience.html)
 
-- [Portfolio WEBAPP example](https://abhinav-bohra.github.io/experience.html).
 
-- 📫 How to reach me: [Mail](mailto:frame.sk140@gmail.com), [Discord](5101)
-  
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-</p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Frameworks & Libraries
+<img src="https://img.shields.io/badge/pytorch.svg?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white" /> <img src="https://img.shields.io/badge/Mantine-339AF0.svg?style=for-the-badge&logo=Mantine&logoColor=white" /> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
