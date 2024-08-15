@@ -4,7 +4,9 @@
 - 🔭 I’m currently studying in **CE KMITL**
 
 - 👨‍💻 My dream job is **Data, AI, Machine Learning engineer**
-- 
+- ![Kaggle](https://www.kaggle.com/natdanaisangpho)
+- ![Linkedin](https://www.linkedin.com/in/natdanai-sangpho/)
+  
 <h3> 🛠 &nbsp;Languages</h3>
 
 - 🚀 &nbsp;
