@@ -22,7 +22,6 @@
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -30,8 +29,7 @@
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 - 🌐 &nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -48,46 +46,12 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <br/>
 
+<b>My GitHub Stats</b>
 
-
- I’m looking for help with all concepts and algorithms in any language on 
-
-- [TheAlgorithms](https://github.com/TheAlgorithms)
-
-- [CE](https://github.com/Developer-Y/cs-video-courses)
-
-- [sorting-algorithms](https://github.com/Matrix278/algorithms)
-  
-- [effective-pandas](https://github.com/TomAugspurger/effective-pandas/blob/master/modern_1_intro.ipynb)
-
-- [AIAlgosFromScratch](https://github.com/adityajn105/Al-Algos-from-Scratch)
-
-- [Data Structures and Algorithms practice problems](https://github.com/bollwarm/DataStructuresAlgorithms)
-
-- [SystemDesign101](https://github.com/ByteByteGoHq/system-design-101)
-
-- [software development practices and design principles](https://github.com/joebew42/study-path)
-
-- [Deep Vision AI](https://github.com/kjw0612/awesome-deep-vision)
-
-- [BOOKS](https://github.com/JiashuWu/Books)
-
-- [DSA Python](https://github.com/neeru1207/DS-and-Algos-Python3)
-
-- System design master plan on [System design master plan](https://github.com/mohsenshafiei/system-design-master-plan)
-
-- [Top-down ML learning path for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-
-- [Pytorch and Tensorflow](https://github.com/aladdinpersson/Machine-Learning-Collection)
-
-- [ML project template](https://github.com/thanhhau097/ml_project_template)
-
-- [Portfolio WEBAPP example](https://abhinav-bohra.github.io/experience.html)
-
+<a href="https://github.com/FRAMEEE17"><img src="https://github-readme-stats.vercel.app/api?username=FRAMEEE17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="FRAMEEE17's GitHub stats" /></a>
