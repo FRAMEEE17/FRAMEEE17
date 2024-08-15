@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FRAMEEE17 </h1>
-<h3 align="center">A passionate Computer Engineering Student from Thailand</h3>
+<h3 align="center">A passionate Computer Engineering Student from Thailand who is interested in LLM, Big Data, AI and Product Development.</h3>
 
 - 🔭 I’m currently studying in **CE KMITL**
 
