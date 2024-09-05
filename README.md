@@ -58,3 +58,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FRAMEEE17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="FRAMEEE17" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAMEEE17&layout=donut)](https://github.com/FRAMEEE17/github-readme-stats)
