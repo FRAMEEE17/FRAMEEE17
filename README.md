@@ -56,6 +56,5 @@
 
 <a href="https://github.com/FRAMEEE17"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FRAMEEE17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="FRAMEEE17's GitHub stats" /></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FRAMEEE17&show_icons=true&locale=en&layout=compact" alt="FRAMEEE17" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FRAMEEE17&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="FRAMEEE17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FRAMEEE17&" alt="FRAMEEE17" /></p>
